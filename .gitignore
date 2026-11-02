@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Homebrew Bundle lockfile (optional, omit unless strict version pinning is desired)
+Brewfile.lock.json

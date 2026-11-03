@@ -129,7 +129,7 @@ info "Installing packages from ${BREWFILE}..."
 info "This may take a few minutes depending on your internet connection and packages..."
 
 # Run brew bundle without creating a lockfile
-brew bundle --file="${BREWFILE}" --no-lock
+brew bundle --file="${BREWFILE}"
 
 success "All Brewfile packages have been successfully processed!"
 

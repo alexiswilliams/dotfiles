@@ -20,6 +20,12 @@ cask "docker-desktop"
 cask "iterm2"
 # Virtual machines UI using QEMU
 cask "utm"
+# Visual studio code
+cask "visual-studio-code"
+# Microsoft teams 
+cask "microsoft-teams"
+# Microsoft outlook
+cask "microsoft-outlook"
 go "golang.org/x/tools/gopls"
 npm "@orengrinker/jira-mcp-server"
 npm "@salesforce/cli"
